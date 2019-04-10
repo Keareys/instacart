@@ -4,21 +4,21 @@ MSBA 326 Machine Learning Course
 
 ## Draft Report Sections
 
-### Executive summary
-#### Introduction/background
-#### A survey of what others have done in this area
-#### Your approach and methodology
-#### Data Preparation
-##### EDA
-##### Model Development
+### Executive summary (Not Assigned)
+#### Introduction/background (Nicole)
+#### A survey of what others have done in this area (Kearey)
+#### Your approach and methodology (Peter)
+#### Data Preparation (Kearey)
+##### EDA (Kearey)
+##### Model Development (ALL)
 ###### Adaboost
 ###### XGBoost
 ###### Randomforest
 ###### Dummy
-##### Model Summary
-#### Results (plots, tables etc)
+##### Model Summary (Comparison)
+#### Results (plots, tables etc) (Interpretation)
 #### Conclusions
-#### References (APA standard format)
+#### References (APA standard format) (Kearey/Nicole)
 #### Appendix (code, other relevant document, etc)
 
 ### Authors:
