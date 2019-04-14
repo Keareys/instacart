@@ -17,7 +17,7 @@
 * `aisle_id`: aisle identifier
 * `aisle`: the name of the aisle
 
-`deptartments` (21 rows):
+`departments` (21 rows):
 * `department_id`: department identifier
 * `department`: the name of the department
 
